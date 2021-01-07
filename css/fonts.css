@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Goldman';
+    src: url('../fonts/Goldman-Bold.eot');
+    src: url('../fonts/Goldman-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Goldman-Bold.woff2') format('woff2'),
+        url('../fonts/Goldman-Bold.woff') format('woff'),
+        url('../fonts/Goldman-Bold.svg#Goldman-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
